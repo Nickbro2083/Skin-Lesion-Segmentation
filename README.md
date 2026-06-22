@@ -1,4 +1,4 @@
-# Skin-Lesion-Segmentation
+# Skin Lesion Segmentation
 This project is done by using Google Colaboratory.
 
 Tools and libraries used: Python, TensorFlow/Keras, OpenCV, NumPy, Matplotlib, Scikit-learn
